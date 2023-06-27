@@ -10,3 +10,5 @@ we will create a contract together to fulfill the following requirements:
 3. Your contract will have a burn function, which works the opposite of the mint function, as it will destroy tokens. It will take an address and value just like the mint functions. It will then deduct the value from the total supply and from the balance of the address.
   
 4. Lastly, your burn function should have conditionals to make sure the balance of account is greater than or equal to the amount that is supposed to be burned.
+
+#https://www.loom.com/share/7e3c6583d3bb4e238de50569c4d1b434?sid=73787e78-bd8e-42a8-a268-85893005a79a
