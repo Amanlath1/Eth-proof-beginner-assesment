@@ -11,4 +11,4 @@ we will create a contract together to fulfill the following requirements:
   
 4. Lastly, your burn function should have conditionals to make sure the balance of account is greater than or equal to the amount that is supposed to be burned.
 
-https://www.loom.com/share/7e3c6583d3bb4e238de50569c4d1b434?sid=73787e78-bd8e-42a8-a268-85893005a79a
+https://youtu.be/F5kvxAYQIzE
